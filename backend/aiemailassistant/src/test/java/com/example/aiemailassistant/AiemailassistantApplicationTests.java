@@ -1,0 +1,13 @@
+package com.example.aiemailassistant;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AiemailassistantApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
